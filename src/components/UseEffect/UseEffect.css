@@ -1,0 +1,7 @@
+.effect {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 60px;
+  background-color: #95aa4b;
+}
